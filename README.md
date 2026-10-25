@@ -213,4 +213,4 @@ Kaspersky Total Security is available as a **full free version** for Windows, en
 Experience the peace of mind that comes with **Kaspersky Total Security**. Download now and fortify your digital life!
 
 ---
-**Last updated:** 2026-10-25 05:31:02 UTC
+**Last updated:** 2026-10-25 10:24:52 UTC
